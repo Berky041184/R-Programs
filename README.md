@@ -4,9 +4,9 @@ R is a powerful opensource tool for data analytics.  This repository contains R 
  
 This repository contains the following Projects:  
 
-  #1. Monte Carlo Simulations Of Different Means Estimates. Date Published: Spring 2014.
-  
-The R code is the entire program and Power Point of Final Results. A group project with myself as the R programmer. 
-          Key Files: Monte Carlo Simulations.rtf, Monte Carlo Simulations Presentation.pptx
+#1. Monte Carlo Simulations. Date Published: Spring 2014.
+A group project from Graduate School demostrating various mean estimates by using a Monte Carlo Simulation that generated 1 million parameter estimates for each mean method. The R code and Power Point of Final Results are provided in the repository. The entire R code was done by me and was used for the final conculsions made in the power point. 
 
-  #2.
+Key Files: Monte Carlo Simulations.rtf, Monte Carlo Simulations Presentation.pptx
+
+#2.
