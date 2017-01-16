@@ -1,6 +1,6 @@
-R Demo Projects
+# R Demo Projects
  
-R is a useful tool for data analytics.  This repository contains R projects that I have used to enhanced my own R Programming and Data Analytics skills.  These projects span small demos of data manipulations in R to large scale econometric programs.  
+R is a powerful opensource tool for data analytics.  This repository contains R projects that I have used to enhanced my own R Programming and Data Analytics skills.  These projects span small demos of data manipulations in R to large scale econometric programs.  
  
 This repository contains the following Projects:  
 
