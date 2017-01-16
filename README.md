@@ -10,3 +10,10 @@ A group project from Graduate School demostrating various mean estimates by usin
 Key Files: Monte Carlo Simulations.rtf, Monte Carlo Simulations Presentation.pptx
 
 #2.
+
+
+
+
+
+
+
